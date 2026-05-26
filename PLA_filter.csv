@@ -1,0 +1,4 @@
+﻿PLA_filter;"Cable-pulley / tendon-driven transmission";"Bowden cable / cable-conduit transmission";"Elastic cable / spring-assisted transmission";"Articulated hinge with passive element";"Flexible shell / leaf-spring / strut mechanism";"Hybrid rigid-compliant mechanism";"Spring-loaded linkage / four-bar / parallelogram";"Cam-spring-cable / variable moment arm mechanism";"Local rigid rotary transmission";"Linear-to-rotary transmission"
+PLA_fully_printable;0;0;0;0;1;0;0;0;0;0
+PLA_Needs_simple_components;1;1;1;1;1;0;1;1;1;0
+PLA_Needs_complex_components;1;1;0;0;0;1;0;1;1;1
